@@ -1,0 +1,21 @@
+{
+  "name": "reactx",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@tanstack/react-query": "^4.35.3",
+    "@types/lodash-es": "^4.17.9",
+    "@types/react": "^18.2.23",
+    "@types/react-dom": "^18.2.8",
+    "react": "18.3.0-canary-7118f5dd7-20230705",
+    "react-dom": "18.3.0-canary-7118f5dd7-20230705",
+    "react-server-dom-webpack": "18.3.0-canary-7118f5dd7-20230705",
+    "typescript": "latest",
+    "vite": "^4.4.9"
+  },
+  "peerDependencies": {
+    "@tanstack/react-query": "*"
+  },
+  "dependencies": {
+    "lodash-es": "^4.17.21"
+  }
+}
